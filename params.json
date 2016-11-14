@@ -1,0 +1,6 @@
+{
+  "name": "Avant-js.GitHub.io",
+  "tagline": "AvantJS website repository",
+  "body": "# Hello and Avant!\r\nAvantJS is a tool for modeling javascript applications\r\n\r\nIt is based on node-red and extend its capabilities for general purpose web applications\r\n\r\nThis is going to be the future homepage of the application\r\n\r\n\\*_Work in progress image goes here_\\*",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
